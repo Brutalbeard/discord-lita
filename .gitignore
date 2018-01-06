@@ -1,4 +1,4 @@
 .env
 Gemfile.lock
-./dump.rdb
-./Gemfile
+dump.rdb
+Gemfile
